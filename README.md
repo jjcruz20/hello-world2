@@ -1,4 +1,4 @@
 # hello-world2
-first one
+first one.
 i love to eat and sleep.
-i love to play sporst.
+i love to play sports.
